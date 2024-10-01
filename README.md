@@ -1,2 +1,2 @@
 # avghtix.github.io
-Personal Wab
+Personal Website
