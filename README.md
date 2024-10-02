@@ -1,2 +1,2 @@
-# avghtix.github.io
-Personal Website
+# Avghtix's Home Page
+Personal Home Page
